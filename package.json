@@ -1,0 +1,27 @@
+{
+  "name": "koa-studio",
+  "version": "1.0.0",
+  "description": "learn koa",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyzhao/koa-studio.git"
+  },
+  "keywords": [
+    "koa",
+    "node"
+  ],
+  "author": "allen zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alyzhao/koa-studio/issues"
+  },
+  "homepage": "https://github.com/alyzhao/koa-studio#readme"
+}
