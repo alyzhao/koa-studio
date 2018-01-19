@@ -60,4 +60,9 @@ export NODE_PATH=$NODE_HOME/lib/node_modules
 1. 
 
 
+## notes
+
+1. 继续熟悉 koa, [参考链接](http://www.ruanyifeng.com/blog/2017/08/koa.html) 看到中间件
+
+
 
